@@ -56,7 +56,7 @@ module sr_ff (
         end
     end
 endmodule
-` ``
+```
 
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:Mathiyazhagan A
